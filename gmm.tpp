@@ -17,10 +17,10 @@
 //#define STATS_ENABLE_EIGEN_WRAPPERS
 //#include "stats/include/stats.hpp"
 
-#include "soraxas_cpp_toolbox/main.h"
+#include "soraxas_toolbox/main.h"
 
 #ifdef SXS_GMM_USE_AUTODIFF
-#include "soraxas_cpp_toolbox/batched_autodiff.hpp"
+#include "soraxas_toolbox/batched_autodiff.hpp"
 #endif
 
 #define fast_gmm_assert(condition, message)                                    \

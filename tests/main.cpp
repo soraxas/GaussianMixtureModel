@@ -17,8 +17,8 @@ using namespace autodiff;
 #include <Eigen/Dense>
 
 #include "cppm.hpp"
-#include "soraxas_cpp_toolbox/globals.h"
-#include "soraxas_cpp_toolbox/main.h"
+#include "soraxas_toolbox/globals.h"
+#include "soraxas_toolbox/main.h"
 
 #include "gmm.hpp"
 #include "gmm.tpp"
